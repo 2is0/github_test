@@ -1,2 +1,2 @@
 # github_test
-git
+깃허브 연습해보장~!
